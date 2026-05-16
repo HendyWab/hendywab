@@ -67,18 +67,17 @@
 
 ## 🔌 Embedded Systems & Hardware
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" />
-
-<br><br>
-
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" /> <br><br> 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=stm32,esp32&theme=dark" /> <br><br>
+<img src="https://img.shields.io/badge/PIC_Microcontrollers-1E3A8A?style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/AVR_&_ATmega-374151?style=for-the-badge" /><br><br>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=stm32,esp32&theme=dark" />
 
-<br><br>
 
 ## ☁️ DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&theme=dark" />
-
+<br><br>
 </div>
 
 ---
