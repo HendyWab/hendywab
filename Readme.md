@@ -1,0 +1,169 @@
+
+# 👋 Hello, I'm Nangndi Wabede
+
+<div align="center">
+
+## Electronics Engineer • Computer Scientist • Embedded AI Developer
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Electronics+%26+Computer+Engineering;Artificial+Intelligence;Embedded+Systems;IoT+%26+Smart+Devices;Cloud+%26+Distributed+Systems;Full+Stack+Development" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Electronics_%26_Computer_Engineering-2563EB?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Computer_Science-374151?style=for-the-badge&logoColor=white" />
+
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 About Me
+
+</div>
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- ⚡ Electronics Engineer & Computer Scientist  
+- 🤖 Passionate about Artificial Intelligence  
+- 🔌 Embedded Systems & Smart Electronics Developer  
+- 📡 IoT & Wireless Communication Enthusiast  
+- ☁️ Cloud & Distributed Systems Explorer  
+- 💻 Full Stack Developer  
+- 🌍 Building intelligent connected systems for real-world applications  
+
+### 🎯 Mission
+
+> Building intelligent systems where hardware, software, and AI converge.
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+# ⚡ Tech Stack
+
+</div>
+
+<div align="center">
+
+## 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,bash&theme=dark" />
+
+<br><br>
+
+## 🌐 Web & Backend Technologies
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,mongodb,mysql,firebase&theme=dark" />
+
+<br><br>
+
+## 🔌 Embedded Systems & Hardware
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" />
+
+<br><br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=stm32,esp32&theme=dark" />
+
+<br><br>
+
+## ☁️ DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧠 Areas of Interest
+
+</div>
+
+<div align="center">
+
+| Domain | Focus |
+|---|---|
+| 🤖 Artificial Intelligence | Intelligent systems & AI integration |
+| ⚡ Embedded Systems | Smart electronic architectures |
+| 📡 IoT & Connectivity | Wireless communication & telemetry |
+| ☁️ Cloud Computing | Connected scalable infrastructures |
+| 🔒 Cybersecurity | Secure connected devices |
+| 🌍 Smart Technologies | Real-world intelligent solutions |
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 GitHub Analytics
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=HendyWab&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HendyWab&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HendyWab&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HendyWab&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏗️ Current Focus
+
+</div>
+
+- 🧠 AI-powered diagnostics systems  
+- 🔌 Intelligent electronic devices  
+- 📡 IoT telemetry architectures  
+- ☁️ Cloud-connected embedded systems  
+- ⚡ EMI / EMC protection systems  
+- 🤖 AI integration in embedded electronics  
+
+---
+
+<div align="center">
+
+# 🌐 Connect With Me
+
+</div>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/nangndi-wabede-292318272">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Engineering intelligent systems for the connected future.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:00F7FF&height=120&section=footer"/>
+
+</div>
+
