@@ -150,7 +150,17 @@
 
 ## ⚡ Engineering intelligent systems for the connected future.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:00F7FF&height=120&section=footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C+%7C+Assembly+%7C+Java+%7C+Python;Embedded+Systems+%7C+AI+%7C+IoT;Building+Smart+Connected+Technologies;Firmware+%7C+Telemetry+%7C+Cloud" />
+
+<br><br>
+
+
+
+<p align="center">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="700"/>
+</p>
 
 </div>
+
+
 
