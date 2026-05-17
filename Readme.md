@@ -150,7 +150,7 @@
 
 ## ⚡ Engineering intelligent systems for the connected future.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=C+%7C+C%2B%2B+%7C+Assembly+%7C+Python;Java+%7C+TypeScript+%7C+Embedded+AI;IoT+%7C+Telemetry+%7C+Cloud+Systems;Embedded+Systems+%7C+Electronics+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=C+%7C+C%2B%2B+%7C+Assembly+%7C+Python;Java+%7C+TypeScript+%7C+Embedded+AI;IoT+%7C+Telemetry+%7C+Cloud+Systems;Embedded+Systems+%7C+Electronics+Engineering" />
 
 <br><br>
 
