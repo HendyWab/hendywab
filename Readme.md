@@ -108,7 +108,7 @@
 # 📊 GitHub Analytics
 </div>
   <div align="center"> 
-    <img src="https://streak-stats.demolab.com?user=HendyWab&theme=tokyonight&hide_border=true" /> <br><br> 
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HendyWab&theme=tokyonight&hide_border=true"/> <br><br> 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HendyWab&theme=tokyo-night&hide_border=true&area=true" /> <br><br> 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HendyWab&theme=tokyonight" /> 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HendyWab&theme=tokyonight" /> 
