@@ -159,13 +159,15 @@
 
 # 🚀 Featured Project
 
-</div>
-
-<div align="center">
-
 ## Intelligent Embedded Diagnostic System (IEDS)
 
 AI-assisted embedded diagnostics and telemetry platform focused on:
+
+<br>
+
+<table>
+<tr>
+<td align="left">
 
 ✅ Real-time telemetry  
 ✅ MQTT communication  
@@ -175,9 +177,27 @@ AI-assisted embedded diagnostics and telemetry platform focused on:
 ✅ AI-assisted diagnostics  
 ✅ Embedded + Cloud integration  
 
-### Stack
+</td>
+</tr>
+</table>
 
-`FastAPI` • `React` • `MQTT` • `WebSockets` • `Python` • `Embedded Systems`
+<br>
+
+## ⚙️ Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,python,docker" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
+
+<img src="https://img.shields.io/badge/WebSockets-2563EB?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Embedded_Systems-1E3A8A?style=for-the-badge" />
+
+</p>
 
 </div>
 
@@ -193,10 +213,6 @@ AI-assisted embedded diagnostics and telemetry platform focused on:
 
 <a href="https://linkedin.com/in/nangndi-wabede-292318272">
   <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-<a href="https://github.com/HendyWab">
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
 </div>
