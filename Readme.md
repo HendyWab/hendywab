@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/NW_github_banner.png" alt="NW Banner" width="100%" />
+</p>
+
+<br>
 
 # 👋 Hello, I'm Nangndi Wabede
 
@@ -67,17 +72,26 @@
 
 ## 🔌 Embedded Systems & Hardware
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" /> <br><br> 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=stm32,esp32&theme=dark" /> <br><br>
-<img src="https://img.shields.io/badge/PIC_Microcontrollers-1E3A8A?style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/AVR_&_ATmega-374151?style=for-the-badge" /><br><br>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" />
+
+<br><br>
+
 <img src="https://go-skill-icons.vercel.app/api/icons?i=stm32,esp32&theme=dark" />
 
+<br><br>
+
+<img src="https://img.shields.io/badge/PIC_Microcontrollers-1E3A8A?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AVR_&_ATmega-374151?style=for-the-badge" />
+
+<br><br>
 
 ## ☁️ DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&theme=dark" />
+
 <br><br>
+
 </div>
 
 ---
@@ -106,19 +120,26 @@
 <div align="center">
 
 # 📊 GitHub Analytics
+
 </div>
-  <div align="center"> 
- <p align="center">
+
+<div align="center">
+
+<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=HendyWab&theme=tokyonight"
     alt="GitHub Streak"
   />
 </p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HendyWab&theme=tokyo-night&hide_border=true&area=true" /> <br><br> 
- 
-  </div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HendyWab&theme=tokyo-night&hide_border=true&area=true" />
+
+<br><br>
+
+</div>
 
 ---
+
 <div align="center">
 
 # 🏗️ Current Focus
@@ -136,6 +157,34 @@
 
 <div align="center">
 
+# 🚀 Featured Project
+
+</div>
+
+<div align="center">
+
+## Intelligent Embedded Diagnostic System (IEDS)
+
+AI-assisted embedded diagnostics and telemetry platform focused on:
+
+✅ Real-time telemetry  
+✅ MQTT communication  
+✅ WebSocket streaming  
+✅ EMI anomaly detection  
+✅ Distributed embedded observability  
+✅ AI-assisted diagnostics  
+✅ Embedded + Cloud integration  
+
+### Stack
+
+`FastAPI` • `React` • `MQTT` • `WebSockets` • `Python` • `Embedded Systems`
+
+</div>
+
+---
+
+<div align="center">
+
 # 🌐 Connect With Me
 
 </div>
@@ -144,6 +193,10 @@
 
 <a href="https://linkedin.com/in/nangndi-wabede-292318272">
   <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="https://github.com/HendyWab">
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
 </div>
@@ -158,13 +211,8 @@
 
 <br><br>
 
-
-
 <p align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="700"/>
 </p>
 
 </div>
-
-
-
