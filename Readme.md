@@ -4,12 +4,15 @@
 
 <br>
 
-# 👋 Hello, I'm Nangndi Wabede
+<div align="center">
+
+## 👋 Hello, I'm Nangndi Wabede
+
+</div>
 
 <div align="center">
 
-## Electronics Engineer • Computer Scientist • Embedded AI Developer
-
+## Electronics Engineer • Computer Scientist • AI & Embedded Systems
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Electronics+%26+Computer+Engineering;Artificial+Intelligence;Embedded+Systems;IoT+%26+Smart+Devices;Cloud+%26+Distributed+Systems;Full+Stack+Development" />
 </p>
