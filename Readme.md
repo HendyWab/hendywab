@@ -108,7 +108,12 @@
 # 📊 GitHub Analytics
 </div>
   <div align="center"> 
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HendyWab&theme=tokyonight&hide_border=true"/> <br><br> 
+ <p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=HendyWab&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HendyWab&theme=tokyo-night&hide_border=true&area=true" /> <br><br> 
  
   </div>
