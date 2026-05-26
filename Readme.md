@@ -214,7 +214,7 @@ AI-assisted embedded diagnostics and telemetry platform focused on:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/nangndi-wabede-292318272">
+<a href="https://linkedin.com/in/nangndi-wabede">
   <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
