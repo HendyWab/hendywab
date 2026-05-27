@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## 👋 Hello, I'm Nangndi Wabede
+ ## 👋 Hello, I'm Nangndi Wabede
 
 </div>
 
