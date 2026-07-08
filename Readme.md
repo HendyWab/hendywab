@@ -129,8 +129,8 @@
 </p>
 <br><br>
 <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=HendyWab&theme=tokyo-night&hide_border=true&area=true" /></p>
-<br>
 </div>
+
 ---
 
 <div align="center">
