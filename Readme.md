@@ -124,7 +124,7 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src=""/>
+<img src="https://streak-stats.demolab.com?user=HendyWab&theme=tokyonight&hide_border=true" alt="streak-stats"/>
 <br><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HendyWab&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
