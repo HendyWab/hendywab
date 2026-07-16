@@ -91,17 +91,17 @@ I believe the future belongs to engineers capable of bridging multiple disciplin
 
 # 💻 Technology Ecosystem
 
-*Technologies supporting the engineering platforms I design and build.*
+*Technologies supporting the design, development and deployment of multidisciplinary engineering platforms.*
 
 </div>
 
 ---
 
-## ⚡ Electronics & Embedded Systems
+# ⚡ Electronics & Embedded Systems
 
 <p align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=stm32,esp32" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=stm32,esp32,raspberrypi" />
 
 <br><br>
 
@@ -115,9 +115,29 @@ I believe the future belongs to engineers capable of bridging multiple disciplin
 
 </p>
 
+<br>
+
+<div align="center">
+
+### 🛠 Engineering Design Tools
+
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Proteus-1E3A8A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LTspice-B22222?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Simulink-EA6B00?style=for-the-badge"/>
+
+</div>
+
 ---
 
-## 💻 Programming Languages
+# 💻 Programming Languages
 
 <p align="center">
 
@@ -127,7 +147,7 @@ I believe the future belongs to engineers capable of bridging multiple disciplin
 
 ---
 
-## 🌐 Software Engineering
+# 🌐 Software Engineering
 
 <p align="center">
 
@@ -137,61 +157,110 @@ I believe the future belongs to engineers capable of bridging multiple disciplin
 
 ---
 
-## 🗄 Databases
+# 🗄 Databases & Data Platforms
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Oracle_Database-C74634?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/InfluxDB-020817?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/TimescaleDB-1F4B99?style=for-the-badge"/>
-
-</p>
-
----
-
-## ☁ Cloud & DevOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,postman&theme=dark"/>
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🌐 Telecommunications & Networking
+# 📡 Telecommunications & Networking
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/TCP/IP-2563EB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/VLAN-374151?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Routing-0F766E?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/VPN-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Switching-1D4ED8?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/DNS-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VLAN-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/DHCP-1E40AF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VPN-2563EB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Routing-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DNS-0F766E?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Switching-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DHCP-374151?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Wireshark-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/WebSockets-2563EB?style=for-the-badge"/>
 
 </p>
 
 ---
+
+# ☁ Cloud, DevOps & Automation
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,postman&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CI/CD-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Automation-0F766E?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🏢 Enterprise Infrastructure
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+
+<img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Virtualization-6B7280?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Administration-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IT_Consulting-0F766E?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🤖 Artificial Intelligence & Data Engineering
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Computer_Vision-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TinyML-0F766E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep_Learning-374151?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Engineering-1E3A8A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge"/>
+
+</p>
+
+---
+
 <!-- ========================================================= -->
 <!--                ENGINEERING ECOSYSTEM                       -->
 <!-- ========================================================= -->
