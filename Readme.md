@@ -402,25 +402,26 @@ Current areas of exploration include:
 
 ---
 
+<div align="center">
+
 # 🎯 Current Engineering Focus
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔬 Intelligent Engineering
+### 🧠 Intelligent Engineering
 
 - AI-assisted diagnostics
 - Intelligent embedded platforms
 - Edge AI
 - TinyML
-- Industrial automation
+- Industrial Automation
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Infrastructure
 
@@ -436,7 +437,7 @@ Current areas of exploration include:
 
 <tr>
 
-<td width="50%">
+<td valign="top">
 
 ### ⚙ Embedded Platforms
 
@@ -448,7 +449,7 @@ Current areas of exploration include:
 
 </td>
 
-<td width="50%">
+<td valign="top">
 
 ### 💻 Software Platforms
 
@@ -464,35 +465,37 @@ Current areas of exploration include:
 
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
 ## 🚀 Vision
 
-Designing engineering platforms that seamlessly integrate:
+Designing engineering platforms that seamlessly integrate
 
-⚡ Electronics
-
-↓
-
-🔌 Embedded Systems
+⚡ **Electronics**
 
 ↓
 
-📡 Connectivity
+🔌 **Embedded Systems**
 
 ↓
 
-☁ Cloud
+📡 **Connectivity**
 
 ↓
 
-🤖 Artificial Intelligence
+☁ **Cloud**
 
 ↓
 
-🌍 Real-World Applications
+🤖 **Artificial Intelligence**
+
+↓
+
+🌍 **Real-World Applications**
 
 </div>
 
