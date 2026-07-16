@@ -223,5 +223,7 @@ AI-assisted embedded diagnostics and telemetry platform focused on:
 <p align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="700"/>
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=HendyWab)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HendyWab&style=flat-square&color=000000&label=" />
+</p>
 </div>
