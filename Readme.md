@@ -262,6 +262,151 @@ I believe the future belongs to engineers capable of bridging multiple disciplin
 ---
 
 <!-- ========================================================= -->
+<!--              ENGINEERING CAPABILITIES                      -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 🏆 Engineering Capabilities
+
+*Delivering multidisciplinary engineering solutions from hardware design to enterprise-scale intelligent platforms.*
+
+</div>
+
+<br>
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+## ⚡ Electronics Engineering
+
+Hardware Design
+
+PCB Design
+
+Instrumentation
+
+Electronic Diagnostics
+
+Signal Acquisition
+
+Embedded Integration
+
+</td>
+
+<td align="center" width="33%">
+
+## 🔌 Embedded Systems
+
+Firmware Development
+
+STM32 / ESP32
+
+RTOS
+
+Edge Computing
+
+Embedded Linux
+
+Hardware–Software Integration
+
+</td>
+
+<td align="center" width="33%">
+
+## 🤖 Artificial Intelligence
+
+Computer Vision
+
+Machine Learning
+
+TinyML
+
+AI-assisted Diagnostics
+
+Edge AI
+
+Intelligent Automation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+## 📡 Telecommunications
+
+Enterprise Networking
+
+Routing & Switching
+
+Wireless Networks
+
+Network Automation
+
+Telecommunications
+
+Carrier-grade Infrastructure
+
+</td>
+
+<td align="center">
+
+## ☁ Cloud & Infrastructure
+
+Cloud Platforms
+
+Containerization
+
+Linux Administration
+
+Windows Server
+
+Virtualization
+
+Enterprise Automation
+
+</td>
+
+<td align="center">
+
+## 💻 Software Engineering
+
+REST APIs
+
+Distributed Systems
+
+Backend Engineering
+
+Frontend Development
+
+Database Design
+
+Cloud-native Applications
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## 🌍 End-to-End Engineering
+
+From electronic hardware and embedded firmware to enterprise infrastructure, cloud platforms, telecommunications and intelligent software systems.
+
+</div>
+
+---
+<!-- ========================================================= -->
 <!--                ENGINEERING ECOSYSTEM                       -->
 <!-- ========================================================= -->
 
@@ -692,16 +837,6 @@ Intelligent Enterprise Systems
 <a href="https://linkedin.com/in/nangndi-wabede">
 
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/HendyWab">
-
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-
-</a>
 
 </p>
 
