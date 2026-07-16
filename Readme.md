@@ -1,229 +1,818 @@
+<!-- ========================================================= -->
+<!--                      HERO SECTION                          -->
+<!-- ========================================================= -->
+
 <p align="center">
-  <img src="./assets/NW_github_banner.png" alt="NW Banner" width="100%" />
+  <img src="./assets/NW_github_banner.png" alt="HendyWab Banner" width="100%" />
 </p>
 
 <br>
 
 <div align="center">
 
- ## 👋 Hello, I'm Nangndi Wabede
+# 👋 Hello, I'm Nangndi Wabede
 
-</div>
+### Electronics & Control Engineer • Computer Scientist
 
-<div align="center">
+### Engineering Intelligent Systems from **Embedded Devices** to **Enterprise Platforms**
 
-## Electronics Engineer • Computer Scientist • AI & Embedded Systems
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Electronics+%26+Computer+Engineering;Artificial+Intelligence;Embedded+Systems;IoT+%26+Smart+Devices;Cloud+%26+Distributed+Systems;Full+Stack+Development" />
-</p>
+<br>
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=1100&lines=Electronics+%26+Control+Engineering;Embedded+Systems+Engineering;Artificial+Intelligence;Industrial+IoT;Telecommunications+%26+Networking;Enterprise+Infrastructure;Cloud+Engineering;Full-Stack+Software+Engineering" />
 
-<img src="https://img.shields.io/badge/Electronics_%26_Computer_Engineering-2563EB?style=for-the-badge&logoColor=white" />
+<br><br>
 
-<img src="https://img.shields.io/badge/Computer_Science-374151?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Electronics%20Engineering-2563EB?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/Computer%20Science-374151?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Embedded%20Systems-0F766E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
 
 </div>
 
 ---
 
+# 🏛 Engineering Philosophy
+
+I am an **Electronics & Control Engineer** with a multidisciplinary background spanning **Computer Science**, **Embedded Systems**, **Artificial Intelligence**, **Telecommunications**, **Enterprise Infrastructure**, **Industrial IoT**, **Cloud Engineering**, and **Modern Software Engineering**.
+
+My passion is designing engineering platforms where **hardware, software, networking, cloud technologies and intelligent algorithms** work together to solve real-world challenges.
+
+I believe the future belongs to engineers capable of bridging multiple disciplines into cohesive, scalable and production-ready systems.
+
+> **Building intelligent systems where Electronics, Software and Artificial Intelligence converge.**
+
+---
+<!-- ========================================================= -->
+<!--                  ENGINEERING DOMAINS                       -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# 🚀 About Me
+# ⚙ Engineering Domains
+
+*Building multidisciplinary engineering solutions across hardware, software, connectivity and intelligent systems.*
 
 </div>
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<br>
 
-- ⚡ Electronics Engineer & Computer Scientist  
-- 🤖 Passionate about Artificial Intelligence  
-- 🔌 Embedded Systems & Smart Electronics Developer  
-- 📡 IoT & Wireless Communication Enthusiast  
-- ☁️ Cloud & Distributed Systems Explorer  
-- 💻 Full Stack Developer  
-- 🌍 Building intelligent connected systems for real-world applications  
-
-### 🎯 Mission
-
-> Building intelligent systems where hardware, software, and AI converge.
-
-<br clear="right"/>
+| Engineering Domain | Focus |
+|:-------------------|:------|
+| ⚡ **Electronics Engineering** | Intelligent electronic systems, signal acquisition, instrumentation and hardware design |
+| 🔌 **Embedded Systems** | Firmware development, RTOS, microcontrollers, edge computing and embedded architectures |
+| 🤖 **Artificial Intelligence** | Computer Vision, Machine Learning, TinyML and intelligent decision-making systems |
+| 📡 **Industrial IoT** | Telemetry, smart devices, sensor networks and connected platforms |
+| 🌐 **Telecommunications & Networking** | Enterprise networking, routing, switching, wireless communications and carrier-grade infrastructures |
+| ☁️ **Cloud Engineering** | Distributed systems, cloud-native services, containerization and scalable infrastructures |
+| 🏢 **Enterprise Infrastructure** | Windows, Linux, virtualization, systems administration and IT consulting |
+| 💻 **Software Engineering** | Full-stack web applications, backend APIs, distributed platforms and automation |
+| 🔒 **Cybersecurity** | Secure infrastructures, authentication, access control and resilient engineering platforms |
+| 🔬 **Research & Innovation** | Emerging technologies, multidisciplinary engineering and applied research |
 
 ---
 
 <div align="center">
 
-# ⚡ Tech Stack
+## 🧭 Engineering Vision
+
+*"The most impactful engineering solutions are built at the intersection of multiple disciplines—not within the boundaries of a single one."*
 
 </div>
 
+---
+<!-- ========================================================= -->
+<!--                TECHNOLOGY ECOSYSTEM                        -->
+<!-- ========================================================= -->
+
 <div align="center">
+
+# 💻 Technology Ecosystem
+
+*Technologies supporting the engineering platforms I design and build.*
+
+</div>
+
+---
+
+## ⚡ Electronics & Embedded Systems
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=stm32,esp32" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PIC_Microcontrollers-1E3A8A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AVR_&_ATmega-374151?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ARM_Cortex-0F766E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RTOS-2563EB?style=for-the-badge"/>
+
+</p>
+
+---
 
 ## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,bash&theme=dark" />
-
-<br><br>
-
-## 🌐 Web & Backend Technologies
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,mongodb,mysql,firebase&theme=dark" />
-
-<br><br>
-
-## 🔌 Embedded Systems & Hardware
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" />
-
-<br><br>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=stm32,esp32&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PIC_Microcontrollers-1E3A8A?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/AVR_&_ATmega-374151?style=for-the-badge" />
-
-<br><br>
-
-## ☁️ DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&theme=dark" />
-
-<br><br>
-
-</div>
-
----
-
-<div align="center">
-
-# 🧠 Areas of Interest
-
-</div>
-
-<div align="center">
-
-| Domain | Focus |
-|---|---|
-| 🤖 Artificial Intelligence | Intelligent systems & AI integration |
-| ⚡ Embedded Systems | Smart electronic architectures |
-| 📡 IoT & Connectivity | Wireless communication & telemetry |
-| ☁️ Cloud Computing | Connected scalable infrastructures |
-| 🔒 Cybersecurity | Secure connected devices |
-| 🌍 Smart Technologies | Real-world intelligent solutions |
-
-</div>
-
----
-<div align="center">
-
-# 📊 GitHub Analytics
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=HendyWab&theme=tokyonight&hide_border=true"/>
-<br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HendyWab&theme=tokyo-night&hide_border=true&area=true"/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,js,ts,bash&theme=dark"/>
+
 </p>
 
+---
+
+## 🌐 Software Engineering
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,laravel,flask&theme=dark"/>
+
+</p>
+
+---
+
+## 🗄 Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Oracle_Database-C74634?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/InfluxDB-020817?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TimescaleDB-1F4B99?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ☁ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,postman&theme=dark"/>
+
+</p>
+
+---
+
+## 🌐 Telecommunications & Networking
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/TCP/IP-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/VLAN-374151?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/VPN-0F766E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DNS-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DHCP-1E40AF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Routing-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Switching-0F766E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wireshark-0284C7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/WebSockets-2563EB?style=for-the-badge"/>
+
+</p>
+
+---
+<!-- ========================================================= -->
+<!--                ENGINEERING ECOSYSTEM                       -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 🚀 Engineering Ecosystem
+
+### A multidisciplinary engineering ecosystem spanning electronics, embedded systems, artificial intelligence, telecommunications, enterprise infrastructure and cloud platforms.
+
 </div>
 
 ---
 
 <div align="center">
 
-# 🏗️ Current Focus
+| Platform | Engineering Focus | Status |
+|:---------|:------------------|:------:|
+| 🌐 **HendyWab Portfolio** | Professional engineering portfolio & personal brand | 🚧 |
+| 🏢 **ChendyTronics** | Engineering & technology ecosystem | 🚀 |
+| ⚙ **ChendyForge** | Engineering collaboration & development platform | 🚧 |
+| 👥 **ChendyPresence** | Workforce Intelligence Platform | 🚧 |
+| 📡 **ChendyIoT** | Industrial IoT & telemetry platform | 🚧 |
+| 👁 **ChendyVision** | Computer Vision & AI systems | 🚧 |
+| 💻 **HendyWab IT Labs** | Enterprise Infrastructure Engineering | 🚧 |
+| 🌐 **Telecom Systems & Network Engineering** | Carrier-grade networking & telecom labs | 🚧 |
+| 🔬 **IEDS Diagnostic Workbench** | Intelligent Embedded Diagnostics | 🚧 |
 
 </div>
 
-- 🧠 AI-powered diagnostics systems  
-- 🔌 Intelligent electronic devices  
-- 📡 IoT telemetry architectures  
-- ☁️ Cloud-connected embedded systems  
-- ⚡ EMI / EMC protection systems  
-- 🤖 AI integration in embedded electronics  
+---
+
+## 🏛 Engineering Architecture
+
+```text
+                           HendyWab
+                               │
+     ┌─────────────────────────┼─────────────────────────┐
+     │                         │                         │
+ Portfolio               ChendyTronics             Research
+     │                         │
+     │          ┌──────────────┼──────────────┐
+     │          │              │              │
+     │     ChendyForge   ChendyPresence   ChendyVision
+     │          │              │              │
+     │          └──────┬───────┴──────────────┘
+     │                 │
+     │            ChendyIoT
+     │                 │
+     ├─────────────────┼───────────────────────┐
+     │                 │                       │
+ IT Labs      Telecom Engineering         IEDS Platform
+```
 
 ---
 
 <div align="center">
 
-# 🚀 Featured Project
+### 🎯 Engineering Mission
 
-## Intelligent Embedded Diagnostic System (IEDS)
+**Designing intelligent engineering platforms that connect hardware, software, artificial intelligence, networking and cloud technologies into scalable real-world solutions.**
 
-AI-assisted embedded diagnostics and telemetry platform focused on:
+</div>
+
+---
+<!-- ========================================================= -->
+<!--              FLAGSHIP ENGINEERING PLATFORMS               -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# ⭐ Flagship Engineering Platforms
+
+</div>
+
+---
+
+## 🔬 Intelligent Embedded Diagnostic System (IEDS)
+
+AI-assisted embedded diagnostics platform integrating intelligent electronics, telemetry, cloud technologies and modern software engineering.
+
+### Core Technologies
+
+- Embedded Systems
+- Artificial Intelligence
+- MQTT
+- WebSockets
+- FastAPI
+- React
+- PostgreSQL
+
+---
+
+## 👥 ChendyPresence
+
+Enterprise Workforce Intelligence Platform featuring intelligent attendance management, access control, analytics and cloud-native services.
+
+### Core Technologies
+
+- Facial Recognition
+- RFID
+- Enterprise Cloud
+- REST APIs
+- PostgreSQL
+- React
+- FastAPI
+
+---
+
+## 📡 ChendyIoT
+
+Industrial IoT platform enabling real-time telemetry, connected devices, monitoring dashboards and distributed engineering infrastructures.
+
+### Core Technologies
+
+- MQTT
+- WebSockets
+- Docker
+- PostgreSQL
+- React
+- FastAPI
+
+---
+
+## 🌐 Telecom Systems & Network Engineering
+
+Carrier-grade networking portfolio demonstrating enterprise networking, telecommunications, infrastructure automation and cloud networking.
+
+### Focus Areas
+
+- Routing & Switching
+- VLAN
+- VPN
+- Linux Networking
+- Network Automation
+- Enterprise Infrastructure
+- Cloud Networking
+
+---
+
+## 💻 HendyWab IT Labs
+
+Enterprise Infrastructure Engineering portfolio covering Windows, Linux, networking, cloud administration, automation and professional IT consulting.
+
+### Focus Areas
+
+- Windows Administration
+- Linux Administration
+- Enterprise Networking
+- Virtualization
+- Active Directory
+- Docker
+- Infrastructure Automation
+
+---
+
+## ⚙ ChendyForge
+
+Engineering collaboration platform supporting software engineering workflows, documentation and multidisciplinary engineering projects.
+
+---
+
+<div align="center">
+
+### More flagship engineering platforms are continuously being designed and developed as part of the HendyWab Engineering Ecosystem.
+
+</div>
+
+---
+<!-- ========================================================= -->
+<!--             RESEARCH & CURRENT FOCUS                       -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 🔬 Research & Innovation
+
+*"Engineering is not only about solving today's problems, but about creating tomorrow's technologies."*
+
+</div>
+
+---
+
+My research and engineering activities focus on designing intelligent, connected and scalable systems by combining multiple engineering disciplines.
+
+Current areas of exploration include:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🔌 Intelligent Embedded Systems
+- ⚡ Electronics & Control Engineering
+- 📡 Industrial Internet of Things (IIoT)
+- 🌐 Telecommunications & Enterprise Networking
+- ☁ Cloud-native Engineering Platforms
+- 🏢 Enterprise Infrastructure Engineering
+- 🔒 Secure Connected Systems
+- ⚙ Engineering Automation
+- 📊 Real-time Telemetry & Distributed Observability
+
+---
+
+<div align="center">
+
+## 🧠 Research Philosophy
+
+*"Innovation happens where engineering disciplines intersect."*
+
+</div>
+
+---
+
+# 🎯 Current Engineering Focus
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🔬 Intelligent Engineering
+
+- AI-assisted diagnostics
+- Intelligent embedded platforms
+- Edge AI
+- TinyML
+- Industrial automation
+
+</td>
+
+<td width="50%">
+
+### 🌐 Infrastructure
+
+- Enterprise Networking
+- Telecommunications
+- Linux Infrastructure
+- Cloud Platforms
+- Enterprise Automation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚙ Embedded Platforms
+
+- STM32
+- ESP32
+- RTOS
+- PCB Design
+- Instrumentation
+
+</td>
+
+<td width="50%">
+
+### 💻 Software Platforms
+
+- FastAPI
+- React
+- Next.js
+- PostgreSQL
+- Distributed Systems
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## 🚀 Vision
+
+Designing engineering platforms that seamlessly integrate:
+
+⚡ Electronics
+
+↓
+
+🔌 Embedded Systems
+
+↓
+
+📡 Connectivity
+
+↓
+
+☁ Cloud
+
+↓
+
+🤖 Artificial Intelligence
+
+↓
+
+🌍 Real-World Applications
+
+</div>
+
+---
+<!-- ========================================================= -->
+<!--                 ENGINEERING ROADMAP                        -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 🛣 Engineering Roadmap
+
+</div>
+
+---
+
+## 📍 Current Journey
+
+```text
+Electronics Engineering
+          │
+          ▼
+Embedded Systems
+          │
+          ▼
+Artificial Intelligence
+          │
+          ▼
+Industrial IoT
+          │
+          ▼
+Enterprise Infrastructure
+          │
+          ▼
+Telecommunications
+          │
+          ▼
+Cloud Engineering
+          │
+          ▼
+Distributed Engineering Platforms
+          │
+          ▼
+Intelligent Enterprise Systems
+```
+
+---
+
+## 🌍 Long-Term Engineering Objectives
+
+✔ Intelligent Embedded Platforms
+
+✔ Enterprise Infrastructure Engineering
+
+✔ Carrier-Grade Telecommunications
+
+✔ Industrial IoT Ecosystems
+
+✔ Cloud-native Engineering
+
+✔ Artificial Intelligence Integration
+
+✔ Engineering Research
+
+✔ Open Source Engineering Platforms
+
+✔ Professional IT Consulting
+
+✔ Engineering Education
+
+---
+
+<div align="center">
+
+### Every project within this GitHub ecosystem contributes toward a unified engineering vision.
+
+</div>
+
+---
+<!-- ========================================================= -->
+<!--                  ENGINEERING ACTIVITY                      -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 📊 Engineering Activity
+
+</div>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=HendyWab&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HendyWab&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### Engineering is a continuous process of learning, building and improving.
+
+</div>
+
+---
+<!-- ========================================================= -->
+<!--                PROFESSIONAL NETWORK                        -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 🌐 Professional Network
+
+*Let's connect and build the next generation of intelligent engineering platforms.*
+
+</div>
+
+<br>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/nangndi-wabede">
+
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/HendyWab">
+
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Engineering Portfolio
+
+🚧 Coming Soon
+
+Professional portfolio showcasing engineering platforms,
+research projects,
+technical documentation,
+and enterprise architectures.
+
+</div>
+
+---
+
+<div align="center">
+
+### ChendyTronics Engineering Ecosystem
+
+Building multidisciplinary engineering platforms spanning
+
+⚡ Electronics
+
+🔌 Embedded Systems
+
+🤖 Artificial Intelligence
+
+📡 Industrial IoT
+
+🌐 Telecommunications
+
+☁ Cloud Engineering
+
+🏢 Enterprise Infrastructure
+
+💻 Software Engineering
+
+</div>
+
+---
+<!-- ========================================================= -->
+<!--                ENGINEERING PRINCIPLES                      -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# ⚙ Engineering Principles
+
+</div>
 
 <br>
 
 <table>
-<tr>
-<td align="left">
 
-✅ Real-time telemetry  
-✅ MQTT communication  
-✅ WebSocket streaming  
-✅ EMI anomaly detection  
-✅ Distributed embedded observability  
-✅ AI-assisted diagnostics  
-✅ Embedded + Cloud integration  
+<tr>
+
+<td align="center" width="33%">
+
+### 🎯 Purpose
+
+Every project should solve a real engineering problem.
 
 </td>
+
+<td align="center" width="33%">
+
+### ⚡ Simplicity
+
+Simple architectures outperform unnecessary complexity.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀 Scalability
+
+Design today with tomorrow's systems in mind.
+
+</td>
+
 </tr>
+
+<tr>
+
+<td align="center">
+
+### 🔬 Research
+
+Engineering evolves through continuous learning.
+
+</td>
+
+<td align="center">
+
+### 🤝 Collaboration
+
+Knowledge grows when it is shared.
+
+</td>
+
+<td align="center">
+
+### 🌍 Impact
+
+Technology should improve real-world systems.
+
+</td>
+
+</tr>
+
 </table>
+
+---
+<!-- ========================================================= -->
+<!--                   ENGINEERING MOTTO                        -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 💡 Engineering Motto
+
+## From Embedded Systems
+
+↓
+
+## To Intelligent Platforms
 
 <br>
 
-## ⚙️ Stack
+Building multidisciplinary engineering solutions where
 
-<p align="center">
+**Electronics**
 
-<img src="https://skillicons.dev/icons?i=fastapi,react,python,docker" />
+↓
 
-<br><br>
+**Embedded Systems**
 
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
+↓
 
-<img src="https://img.shields.io/badge/WebSockets-2563EB?style=for-the-badge" />
+**Networking**
 
-<img src="https://img.shields.io/badge/Embedded_Systems-1E3A8A?style=for-the-badge" />
+↓
 
-</p>
+**Cloud**
 
-</div>
+↓
 
----
+**Artificial Intelligence**
 
-<div align="center">
+↓
 
-# 🌐 Connect With Me
-
-</div>
-
-<div align="center">
-
-<a href="https://linkedin.com/in/nangndi-wabede">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
+**Real-World Impact**
 
 </div>
 
 ---
+<!-- ========================================================= -->
+<!--                        FOOTER                              -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-## ⚡ Engineering intelligent systems for the connected future.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=C+%7C+C%2B%2B+%7C+Assembly+%7C+Python;Java+%7C+TypeScript+%7C+Embedded+AI;IoT+%7C+Telemetry+%7C+Cloud+Systems;Embedded+Systems+%7C+Electronics+Engineering" />
+<img src="https://komarev.com/ghpvc/?username=HendyWab&label=&color=2563EB&style=flat-square"/>
 
 <br><br>
 
-<p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="700"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HendyWab&label=&color=2563EB&style=flat-square" alt="Profile views"/>
-</p>
+### Thanks for visiting my GitHub!
+
+If you enjoy engineering, embedded systems,
+AI, cloud technologies,
+telecommunications,
+or enterprise infrastructure,
+
+⭐ feel free to explore my repositories.
+
+<br>
+
+*"Engineering tomorrow's intelligent systems, one platform at a time."*
+
 </div>
+
