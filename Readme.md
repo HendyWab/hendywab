@@ -691,31 +691,6 @@ Designing engineering platforms that seamlessly integrate
 
 ---
 
-
-## 🌍 Long-Term Engineering Objectives
-
-✔ Intelligent Embedded Platforms
-
-✔ Enterprise Infrastructure Engineering
-
-✔ Carrier-Grade Telecommunications
-
-✔ Industrial IoT Ecosystems
-
-✔ Cloud-native Engineering
-
-✔ Artificial Intelligence Integration
-
-✔ Engineering Research
-
-✔ Open Source Engineering Platforms
-
-✔ Professional IT Consulting
-
-✔ Engineering Education
-
----
-
 <div align="center">
 
 ### Every project within this GitHub ecosystem contributes toward a unified engineering vision.
