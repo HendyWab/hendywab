@@ -438,30 +438,6 @@ From electronic hardware and embedded firmware to enterprise infrastructure, clo
 
 ---
 
-## 🏛 Engineering Architecture
-
-```text
-                           HendyWab
-                               │
-     ┌─────────────────────────┼─────────────────────────┐
-     │                         │                         │
- Portfolio               ChendyTronics             Research
-     │                         │
-     │          ┌──────────────┼──────────────┐
-     │          │              │              │
-     │     ChendyForge   ChendyPresence   ChendyVision
-     │          │              │              │
-     │          └──────┬───────┴──────────────┘
-     │                 │
-     │            ChendyIoT
-     │                 │
-     ├─────────────────┼───────────────────────┐
-     │                 │                       │
- IT Labs      Telecom Engineering         IEDS Platform
-```
-
----
-
 <div align="center">
 
 ### 🎯 Engineering Mission
@@ -714,49 +690,7 @@ Designing engineering platforms that seamlessly integrate
 </div>
 
 ---
-<!-- ========================================================= -->
-<!--                 ENGINEERING ROADMAP                        -->
-<!-- ========================================================= -->
 
-<div align="center">
-
-# 🛣 Engineering Roadmap
-
-</div>
-
----
-
-## 📍 Current Journey
-
-```text
-Electronics Engineering
-          │
-          ▼
-Embedded Systems
-          │
-          ▼
-Artificial Intelligence
-          │
-          ▼
-Industrial IoT
-          │
-          ▼
-Enterprise Infrastructure
-          │
-          ▼
-Telecommunications
-          │
-          ▼
-Cloud Engineering
-          │
-          ▼
-Distributed Engineering Platforms
-          │
-          ▼
-Intelligent Enterprise Systems
-```
-
----
 
 ## 🌍 Long-Term Engineering Objectives
 
@@ -953,49 +887,6 @@ Technology should improve real-world systems.
 </tr>
 
 </table>
-
----
-<!-- ========================================================= -->
-<!--                   ENGINEERING MOTTO                        -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-# 💡 Engineering Motto
-
-## From Embedded Systems
-
-↓
-
-## To Intelligent Platforms
-
-<br>
-
-Building multidisciplinary engineering solutions where
-
-**Electronics**
-
-↓
-
-**Embedded Systems**
-
-↓
-
-**Networking**
-
-↓
-
-**Cloud**
-
-↓
-
-**Artificial Intelligence**
-
-↓
-
-**Real-World Impact**
-
-</div>
 
 ---
 <!-- ========================================================= -->
