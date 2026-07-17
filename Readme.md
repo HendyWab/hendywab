@@ -661,38 +661,6 @@ Current areas of exploration include:
 
 <div align="center">
 
-## 🚀 Vision
-
-Designing engineering platforms that seamlessly integrate
-
-⚡ **Electronics**
-
-↓
-
-🔌 **Embedded Systems**
-
-↓
-
-📡 **Connectivity**
-
-↓
-
-☁ **Cloud**
-
-↓
-
-🤖 **Artificial Intelligence**
-
-↓
-
-🌍 **Real-World Applications**
-
-</div>
-
----
-
-<div align="center">
-
 ### Every project within this GitHub ecosystem contributes toward a unified engineering vision.
 
 </div>
