@@ -836,12 +836,6 @@ Technology should improve real-world systems.
 <!--                        FOOTER                              -->
 <!-- ========================================================= -->
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=HendyWab&label=&color=2563EB&style=flat-square"/>
-
-<br><br>
-
 ### Thanks for visiting my GitHub!
 
 If you enjoy engineering, embedded systems,
