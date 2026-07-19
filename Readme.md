@@ -836,6 +836,8 @@ Technology should improve real-world systems.
 <!--                        FOOTER                              -->
 <!-- ========================================================= -->
 
+<div align="center">
+  
 ### Thanks for visiting my GitHub!
 
 If you enjoy engineering, embedded systems,
