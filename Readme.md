@@ -15,14 +15,16 @@
 ### Electronics & Control Engineer • Computer Scientist
 
 ### Engineering Intelligent Systems from **Embedded Devices** to **Enterprise Platforms**
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=1100&lines=Electronics+%26+Control+Engineering;Embedded+Systems+Engineering;Artificial+Intelligence;Industrial+IoT;Telecommunications+%26+Networking;Enterprise+Infrastructure;Cloud+Engineering;Full-Stack+Software+Engineering" />
+<br>
+
 ---
    > Makers make. Coders code. We do both. <br><br>
    > From Embedded Systems to Intelligent Platforms.
 ---
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=1100&lines=Electronics+%26+Control+Engineering;Embedded+Systems+Engineering;Artificial+Intelligence;Industrial+IoT;Telecommunications+%26+Networking;Enterprise+Infrastructure;Cloud+Engineering;Full-Stack+Software+Engineering" />
-
 <br><br>
 
 <img src="https://img.shields.io/badge/Electronics%20Engineering-2563EB?style=for-the-badge"/>
