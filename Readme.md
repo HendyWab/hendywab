@@ -87,6 +87,7 @@ I believe the future belongs to engineers capable of bridging multiple disciplin
 
 </div>
 
+
 ---
 <!-- ========================================================= -->
 <!--                TECHNOLOGY ECOSYSTEM                        -->
@@ -99,6 +100,7 @@ I believe the future belongs to engineers capable of bridging multiple disciplin
 *Technologies supporting the design, development and deployment of multidisciplinary engineering platforms.*
 
 </div>
+
 
 ---
 
@@ -429,10 +431,10 @@ From electronic hardware and embedded firmware to enterprise infrastructure, clo
 
 | Platform | Engineering Focus | Status |
 |:---------|:------------------|:------:|
-| 🌐 **HendyWab Portfolio** | Professional engineering portfolio & personal brand | 🚧 |
-| 🏢 **ChendyTronics** | Engineering & technology ecosystem | 🚀 |
+| 🌐 **[HendyWab Portfolio](https://nangndi-wabede.chendytronics.com/en)** | Professional engineering portfolio & personal brand | 🟢 Live |
+| 🏢 **[ChendyTronics](https://chendytronics.com/en)** | Engineering & technology ecosystem | 🟢 Live |
+| 👥 **[ChendyPresence](https://presence.chendytronics.com)** | Enterprise Workforce Intelligence Platform | 🟢 Live |
 | ⚙ **ChendyForge** | Engineering collaboration & development platform | 🚧 |
-| 👥 **ChendyPresence** | Workforce Intelligence Platform | 🚧 |
 | 📡 **ChendyIoT** | Industrial IoT & telemetry platform | 🚧 |
 | 👁 **ChendyVision** | Computer Vision & AI systems | 🚧 |
 | 💻 **HendyWab IT Labs** | Enterprise Infrastructure Engineering | 🚧 |
@@ -452,6 +454,7 @@ From electronic hardware and embedded firmware to enterprise infrastructure, clo
 </div>
 
 ---
+
 <!-- ========================================================= -->
 <!--              FLAGSHIP ENGINEERING PLATFORMS               -->
 <!-- ========================================================= -->
