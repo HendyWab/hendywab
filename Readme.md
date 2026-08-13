@@ -41,7 +41,7 @@
 
 # 🏛 Engineering Philosophy
 
-I am an **Electronics & Control Engineer** with a multidisciplinary engineering background spanning **Computer Science**, **Software Engineering**, **IT Infrastructure**, **Embedded Systems**, **Artificial Intelligence**, **Telecommunications**, **Industrial IoT**, **Cloud Engineering**, and **Enterprise Infrastructure**.
+I am an **Electronics & Control Engineer** with a multidisciplinary engineering background spanning **Software Engineering**, **IT Systems & Networks**, **Embedded Systems**, **Industrial IoT**, **Artificial Intelligence**, **Computer Vision**, **Telecommunications**, **Enterprise Infrastructure**, **Cloud Engineering**, and **Research & Development**.
 
 I build connected engineering systems across the full stack — from **electronic devices, embedded firmware and networks** to **APIs, databases, cloud platforms, intelligent applications and enterprise systems**.
 
