@@ -12,7 +12,7 @@
 
 # 👋 Hello, I'm Nangndi Wabede
 
-### Electronics & Control Engineer • Computer Scientist
+### Electronics & Control Engineer • Software & IT Systems Engineer
 
 ### Engineering Intelligent Systems from **Embedded Devices** to **Enterprise Platforms**
 
@@ -41,11 +41,11 @@
 
 # 🏛 Engineering Philosophy
 
-I am an **Electronics & Control Engineer** with a multidisciplinary background spanning **Computer Science**, **Embedded Systems**, **Artificial Intelligence**, **Telecommunications**, **Enterprise Infrastructure**, **Industrial IoT**, **Cloud Engineering**, and **Modern Software Engineering**.
+I am an **Electronics & Control Engineer** with a multidisciplinary engineering background spanning **Computer Science**, **Software Engineering**, **IT Infrastructure**, **Embedded Systems**, **Artificial Intelligence**, **Telecommunications**, **Industrial IoT**, **Cloud Engineering**, and **Enterprise Infrastructure**.
 
-My passion is designing engineering platforms where **hardware, software, networking, cloud technologies and intelligent algorithms** work together to solve real-world challenges.
+I build connected engineering systems across the full stack — from **electronic devices, embedded firmware and networks** to **APIs, databases, cloud platforms, intelligent applications and enterprise systems**.
 
-I believe the future belongs to engineers capable of bridging multiple disciplines into cohesive, scalable and production-ready systems.
+My work focuses on bridging engineering disciplines to create **practical, scalable and production-oriented systems** for real-world environments.
 
 > **Building intelligent systems where Electronics, Software and Artificial Intelligence converge.**
 
@@ -431,12 +431,12 @@ From electronic hardware and embedded firmware to enterprise infrastructure, clo
 
 | Platform | Engineering Focus | Status |
 |:---------|:------------------|:------:|
-| 🌐 **[HendyWab Portfolio](https://nangndi-wabede.chendytronics.com/en)** | Professional engineering portfolio & personal brand | 🟢 Live |
-| 🏢 **[ChendyTronics](https://chendytronics.com/en)** | Engineering & technology ecosystem | 🟢 Live |
+| 🌐 **[HendyWab Portfolio](https://nangndi-wabede.chendytronics.com/)** | Professional engineering portfolio & personal brand | 🟢 Live |
+| 🏢 **[ChendyTronics](https://chendytronics.com/)** | Engineering & technology ecosystem | 🟢 Live |
 | 👥 **[ChendyPresence](https://presence.chendytronics.com)** | Enterprise Workforce Intelligence Platform | 🟢 Live |
-| ⚙ **ChendyForge** | Engineering collaboration & development platform | 🚧 |
+| ⚙️ **ChendyForge** | Engineering collaboration & development platform | 🚧 |
 | 📡 **ChendyIoT** | Industrial IoT & telemetry platform | 🚧 |
-| 👁 **ChendyVision** | Computer Vision & AI systems | 🚧 |
+| 👁️ **ChendyVision** | Computer Vision & AI systems | 🚧 |
 | 💻 **HendyWab IT Labs** | Enterprise Infrastructure Engineering | 🚧 |
 | 🌐 **Telecom Systems & Network Engineering** | Carrier-grade networking & telecom labs | 🚧 |
 | 🔬 **IEDS Diagnostic Workbench** | Intelligent Embedded Diagnostics | 🚧 |
@@ -469,7 +469,7 @@ From electronic hardware and embedded firmware to enterprise infrastructure, clo
 
 ## 🔬 Intelligent Embedded Diagnostic System (IEDS)
 
-AI-assisted embedded diagnostics platform integrating intelligent electronics, telemetry, cloud technologies and modern software engineering.
+AI-assisted embedded diagnostics platform integrating **embedded electronics, real-time telemetry, networking, backend services, databases and modern software engineering**.
 
 ### Core Technologies
 
@@ -501,17 +501,17 @@ Enterprise Workforce Intelligence Platform featuring intelligent attendance mana
 
 ## 📡 ChendyIoT
 
-Industrial IoT platform enabling real-time telemetry, connected devices, monitoring dashboards and distributed engineering infrastructures.
+Industrial IoT platform for **real-time telemetry, connected devices, monitoring dashboards and distributed engineering infrastructures**, bridging embedded systems with modern software and data platforms.
 
 ### Core Technologies
 
 - MQTT
 - WebSockets
-- Docker
-- PostgreSQL
-- React
 - FastAPI
-
+- React
+- PostgreSQL
+- Docker
+  
 ---
 
 ## 🌐 Telecom Systems & Network Engineering
@@ -711,7 +711,7 @@ Current areas of exploration include:
 
 # 🌐 Professional Network
 
-*Let's connect and build the next generation of intelligent engineering platforms.*
+*Let's connect and explore the engineering work behind the projects.*
 
 </div>
 
@@ -720,29 +720,31 @@ Current areas of exploration include:
 <p align="center">
 
 <a href="https://linkedin.com/in/nangndi-wabede">
-
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn"/>
+</a>
 
 </p>
 
 ---
-
 <div align="center">
 
-### Engineering Portfolio
+### 🌐 Engineering Portfolio
 
-🚧 Coming Soon
+**[Visit the HendyWab Engineering Portfolio →](https://nangndi-wabede.chendytronics.com/)**
 
 Professional portfolio showcasing engineering platforms,
+software systems,
+industrial IoT,
+embedded systems,
+AI,
+IT infrastructure,
 research projects,
 technical documentation,
 and enterprise architectures.
 
+🟢 **Live • English / Français**
+
 </div>
-
----
-
-<div align="center">
 
 ### ChendyTronics Engineering Ecosystem
 
