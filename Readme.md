@@ -13,9 +13,9 @@
 # 👋 Hello, I'm Nangndi Wabede
 
 ### Electronics & Control Engineer • Software & IT Systems Engineer
+<br>
 
-### Engineering Intelligent Systems from **Embedded Devices** to **Enterprise Platforms**
-
+##  Engineering Intelligent Systems from **Embedded Devices** to **Enterprise Platforms**
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=1100&lines=Electronics+%26+Control+Engineering;Embedded+Systems+Engineering;Artificial+Intelligence;Industrial+IoT;Telecommunications+%26+Networking;Enterprise+Infrastructure;Cloud+Engineering;Full-Stack+Software+Engineering" />
