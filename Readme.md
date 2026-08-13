@@ -27,13 +27,13 @@
 ---
 <br><br>
 
-<img src="https://img.shields.io/badge/Electronics%20Engineering-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Electronics%20%26%20Control-2563EB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Computer%20Science-374151?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20%26%20IT%20Systems-374151?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Embedded%20Systems-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded%20%26%20Industrial%20IoT-0F766E?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Computer%20Vision-7C3AED?style=for-the-badge"/>
 
 </div>
 
