@@ -66,7 +66,7 @@ My work focuses on bridging engineering disciplines to create **practical, scala
 
 | Engineering Domain | Focus |
 |:-------------------|:------|
-| ⚡ **Electronics Engineering** | Intelligent electronic systems, signal acquisition, instrumentation and hardware design |
+| ⚡ **Electronics & Control Engineering** | Intelligent electronic systems, signal acquisition, instrumentation, control and hardware design |
 | 🔌 **Embedded Systems** | Firmware development, RTOS, microcontrollers, edge computing and embedded architectures |
 | 🤖 **Artificial Intelligence** | Computer Vision, Machine Learning, TinyML and intelligent decision-making systems |
 | 📡 **Industrial IoT** | Telemetry, smart devices, sensor networks and connected platforms |
@@ -288,7 +288,7 @@ My work focuses on bridging engineering disciplines to create **practical, scala
 
 <td align="center" width="33%">
 
-## ⚡ Electronics Engineering
+## ⚡ Electronics & Control Engineering
 
 Hardware Design
 
@@ -745,7 +745,8 @@ and enterprise architectures.
 🟢 **Live • English / Français**
 
 </div>
-
+<div align="center">
+  
 ### ChendyTronics Engineering Ecosystem
 
 Building multidisciplinary engineering platforms spanning
